@@ -125,7 +125,7 @@ p {
 }
 input {
     width: 170px;
-    border-color: #E5E7EB;
+    border: 2px solid #E5E7EB;
     border-radius: 8px;
     height: 20px;
 }
